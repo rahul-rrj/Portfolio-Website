@@ -1,8 +1,8 @@
 # ⚡ RAHUL.RAJ() // Systems Architect Portfolio
 
-[![System Status](https://img.shields.io/badge/System_Status-Online-10b981?style=for-the-badge&logo=statuspage&logoColor=white)](https://rahulraj.netlify.app)
+[![System Status](https://img.shields.io/badge/System_Status-Online-10b981?style=for-the-badge&logo=statuspage&logoColor=white)](https://rahulrrjportfolio.netlify.app/)
 [![Tech Stack](https://img.shields.io/badge/Core_Engine-Spring_Boot_%2B_React-06b6d4?style=for-the-badge&logo=springboot&logoColor=white)](#)
-[![Deployment](https://img.shields.io/badge/Deploy-Netlify-00ad9f?style=for-the-badge&logo=netlify&logoColor=white)](https://rahulraj.netlify.app)
+[![Deployment](https://img.shields.io/badge/Deploy-Netlify-00ad9f?style=for-the-badge&logo=netlify&logoColor=white)](https://rahulrrjportfolio.netlify.app/)
 
 > **`INITIALIZING SYSTEM GATEWAY...`**  
 > A high-performance, dark-themed, glassmorphic developer portfolio engineered to showcase backend-focused systems architecture, layered MVC APIs, and interactive diagnostic sandboxes.
@@ -101,7 +101,7 @@ A robust asynchronous data pipeline routing submissions through a secure Express
 
 ## 🎮 Interactive API Sandbox Console
 
-The portfolio hosts a live interactive console. Visitors can query Rahul's resume database directly in the browser by typing standard terminal commands:
+The portfolio hosts a live interactive console. Visitors can query the developer database directly in the browser by typing standard terminal commands:
 
 | Command | Action | Output Type |
 | :--- | :--- | :--- |
@@ -147,10 +147,10 @@ cp .env.example .env
 ```
 Open `.env` and fill in your actual details:
 ```env
-VITE_USER_NAME=Rahul Raj
-VITE_USER_EMAIL=rahulraj.rrj.official@gmail.com
-VITE_USER_LINKEDIN=https://www.linkedin.com/in/rahulraj-rrj/
-VITE_USER_GITHUB=https://github.com/rahul-rrj
+VITE_USER_NAME=Your Name
+VITE_USER_EMAIL=your.email@example.com
+VITE_USER_LINKEDIN=https://www.linkedin.com/in/yourprofile/
+VITE_USER_GITHUB=https://github.com/yourusername
 ```
 
 ### 4. Install Dependencies
@@ -173,6 +173,6 @@ This generates a static, highly optimized bundle in the `/dist` directory, ready
 ---
 
 ```
-[SYSTEM LOG] Rahul Raj Portfolio System Initialized successfully.
+[SYSTEM LOG] Portfolio System Initialized successfully.
 [SYSTEM LOG] Code built to last.
 ```
